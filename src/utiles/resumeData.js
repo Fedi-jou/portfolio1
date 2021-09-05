@@ -137,7 +137,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/uB4VWnNvjyLhMXSbD-689dglXVyoDyKiPdPPirviqOjUXpsNQ-8-XVzdvoXm9SpXq72LMoumMfOeVnFbDgMOvA2Dnp5PVWH3J9Zgwy86wCSycDLHCRN7WAUbwOgImZfJOddIQF9c50SdvMf34F4yPX8F5XJ6Yy7d4YEwJd9drYJZr1oHYDzqp-nENcb8KyAxU9DchAeH_dHHxMaMKcxvxilGP6tN3iv-zM0PPNGeCVXH6Z4J0zF5kWFAAnnwyyRfbqKVkmTDX_HO5aZDG0htLpw6oy7EM4OxqNqdAucWf4LW478jQ5ARbD8n9XRzxFWsFutlrdSxfBfaExRnpfgpWQkC69xG_omqawt96CArD3X_SAL629jDom7EY68Rmil9h1lZ7tC9o7z5yhvxCOpxyUwkwBudC1R-gtuhaW6J_K6q9VmSbEV5QqU3DmqogkrqZGH9VvEPQi3V31wsLw83lbH2XRawdPKzCbGqqFwGd-FgXlI7U73if59o5-smDCew-Sh6VVJCTMEZmKaIuMflhLzN7Ncy1rB8y2eiSEFDAIW6ZmAQfffM5EdhfM_H9-IN6NUyiRcg0GzEzu0iM__x7SB8c1vY78qZtcwGPalLaz8j2X8NZq9kz7fshoh_Zc8dGN-k6HhS2L8kVndX1u9bBgjFhDnfXB09ebIoxUfAlU66vDa8qLj0nKhpownF1viTOOnS9amSySZ2H8bneK4lsQE=w1366-h634-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881337/SC6_qsxeiw.png",
       title: " Day1Studio website",
       caption: "click to see website and code",
       description: "Visit website",
@@ -152,7 +152,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/M1kvQ9TrfyEx9Ii3kiYDSVtSzUGY618MSZNKI4F7wLlrPziDQxt6BR2kV6bvmAlkr1NTIRYcVLn2ua3Dgnzbme_Z-pp3kNocRV4GIHvOx0Wibafbup63LyuFDbacOCWfgRuL1xSPcawgXOp1CdJEjfKwU0thjCrATveGSRGqUDrv8bIld8EAiwloFgEKglxk10Xm_uqTWQ31iB5QE386EDHPJpX4lv5GydkZPvdryhE7SBzA-P4AWPbyIlAzDHX1dYvMJ-a8zdqCgIkm7uiREpIlCKI2h3OLfofx8djZhyP6J2kDgNa4187DadTSJl6GQI0kTmoqLqE5NKCeXHGyTjG0K-t8RPz8MplPgoYOMusDKqSwZ2oVzyp0DhNhBiz6TldQOSZv-SpkSCx2vCktsfws_Xw2P2wboIfAZeS0mEpQSRJ9rUwYfl_BTc74us3leLRwAofostVflgzZPFGt_vbNgZeRckQRaT-Ow1hj0n5EniMep3M2hCzqqe74dYWgtk5gJ4O4R7HVLnhINXBZxeTJ__s9eoOmU6Gttbbd8tzhm7HjFlUBCFz06LyTUJMYe0m5K2G1jDKJk4qbPYZLYIGGkm8HwCT5Ue0y-LEW23MuIjhzklKUL8oEKeVnd_n5j-vbegnzhaahlwFmAkEw6Y2jZ2pTHX2HpvN5p03TI6HBSKQRF7LdCU7t170Yc9JcEVe9UR1r7kd-S9zvmhvSD-Q=w1357-h635-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881334/SC4_s6cnvv.png",
       title: " Vaccination map website",
       caption: "click to see website and code",
       description: "Visit website",
@@ -167,7 +167,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/J0wbb9_Q6OVg4VvR2NkzVoWpL0ZpB4gCjx1Tz2nFJCLYjI-MJNlKE9rFey6-Xay7vLsSJ3ypT5s66MrGlw3woTi4kr-tpQkNC0E79FHcgY15JmR531IZ8U2LuCzaKF8YzFLhrgPsgkrBRH3SFgvMdXnZCrV5yibdOHuWKrmTU8_ZMLfr08wXk2s1nGjAdww-z6WRTaFBsv0R_zXCxtFGuj_XuiUarDgOIpHpzyYleKyD33eWKG2mKGywmwkwhJbImSAioZuu_ky6CPhZ2cS0ZIf4VOM7_FP9tdJSGaW0IrdXFv242ByO2HGSq41Mby6JVismA5a8brmeu96rU8uHIEVE5oFWSRIiMQ5H9h2Ul4e-i1PTe_KDuQirVmoGLD8vEaBTVqS_6JCW9nbevJOcx10sTXbvk2ucVD1IzM5WITuIRCaoS-LMfdt6wf8EI55HveLkU3o0nqRuXcXnTG6iKOpKlig0RyViCTp2FZoa6TuuHa_N28IMdbiY013fSpeSGzTdl6Ko6gsAZtUkCzcxjJMGOu_TttXQx9RimNsL2rXnsctzIRjeMUdaEKAJ4UcktPjKuN-g9FBCZlwUPhX7W5Am2oc7G4Ly-bzA1jJZxXDMcU_xJUYNpy4EitThxPJibaQypvXHzW_7djPCn8BGDufYS5V9WclqNLxEv4dfIAqs9wzjhcw9QrelrJrmEPJc1N5GkpQymwd1UGLek19h7yo=w1362-h635-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881333/SC2_hnyskp.png",
       title: " Corona status website",
       caption: "click to see website and code",
       description: "Visit website",
@@ -182,7 +182,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/d24zd0bNQFTMl7nOeONsa-Rc9itw1hFcIdmP1XjNoeRoRLGfzSmm36GBE0XHIUOVp6-8xT1LLPpuR37XQfTECGCQuR3fYvKOsw8ZeZSWYdOUqMwQoLeNXRIW_y90zZkDXKRI5ll9JCleo3T5vyNKeHaEn_86EZg5EdHXy2JYxaDXfeiTEyMVphSNltv2zlf3-KPLHlQSBVOLKvb3wTiTbuQThELnJreK6rLTqjx_eyKp7lTm9zxd31Iz4X_gQodO-Qq-pBTYKOL36VFngGN4sTIT4JwL53IFuzAqXrB-baBZw_BPY4ILplS0_PcQAJM0OiJEYtiwyeke2k8Yyz5-WW-8Adz2Me2DnmVUmAfPhamV3Lj1RODLfs2hKEj0qykp6fIbyC2r2D2OoWwkjoLExNgogBkR5wawT2fkwOwR76GUNQBdaMEYWl2QoPAGR6R3iAQebzJFTam1u64Tn8FQ8wZ6wtB7ZTm5QbfEV33ExzFqam23oEpjJzRKQ0gIbbFcTpSDYkle27lWO_Oc78wwmcgmFSzT_kOSbisCyi-c3ar4Nc-TgKEJ22STc2C56heKld_AFP2jCHjQ6MB-T2HErjtMHQ8Wsxt50jln3gSotTc5926LXBeiWwjI0ligJlohzOfZPMBcSXZ8xtm0NktYpH6D1Q608oeGd35wA3TR0v5_9WE3NWXv5rzswQ0-Pmm1BB6LnMIMJXuUIcD6zIaZ2k4=w1366-h635-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881338/SC5_heifne.png",
       title: "Weather App",
       caption: "click to see website and code",
       description: "Visit website",
@@ -197,7 +197,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/X6sSQj2BllRBU7jJFUP5-UjkJ4c6KEYHrxkiB93uitOVLyFUrQ7yHl-sNFwrAt1ki8dxWV4tEjhDIancebpwsxFXMIsdRmrxau64KC8zzzZAxO1J621E_SF5NRk7zKRfFCQ4w82HX-oEIVER-8upOVccV15Pnsa41HhyfSlntjNxP52_MvsPFgZe8ecwKdlBM2aOOT4N6gpgt3V7muQn8TQD9aGqUQB9v510psX3snyONyMhFoZU42KVVYDdnuojdXNHLF0XGioAoN2D_iDF4mVBEOdWGN1JDbgR3GtYcCYQJ1GuzBfc0t5Up6vKplyTwKCHioacXqY62AnzkbjYjcuwEzXr0Q6S0qwxZQSd2x62HPWrCp50FU4knL6VsFU8J1IaJeCU6wVUqSBE0ETo8jRgV-9Q3ENjzN9nEYt2Jx8LkWYABpavP6eN2bAl1Opb0avoEUpAajz2PDG7U1fcoEaLv5jV5XQsK_-7jK9io7ieDcg_KV3QFpzVaEz1_uWagaZ1N7nvgPNBvTtTctbShng34k4XKpbJmfXsw3l4xa5xdxYTacX5x1vcbEnp847dyGEVE48WOhgywQKN5lU1B7h0tWBE9zxb5AsxeVmy3lFyz29Io2fRN51YWxBN_WN9E1SpPa2-7cepxNvwQBmaN3v6yOYy_SvDJ2dF82khrNxRuzljm9FR7k2zvuRgy4Hzw6qyNOtz0ca6zyAh-iaLePQ=w1363-h595-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881334/SC3_u2mmwh.png",
       title: " dashboard prototype",
       caption: "click to see website and code",
       description: "Visit website",
@@ -212,7 +212,7 @@ const data = {
     {
       tag: "Reactjs",
       image:
-        "https://lh3.googleusercontent.com/uc03cWHEouRaVjLVTYkH6xtP_3FStwQRvtI0b-h2z12rMeLIY26EqGSjmaeuD2z1U7pqYPJE8KR9O_omqk5UZ1yKaBHYnPbslWYOY0aHcXk9csSQlt6Bx4pW_OlMd4BJ0Qv3AhgZ0wxuTPgewwLazOcPnElpZzD1UR14hZiPAdBY59ZELQ97skvYT0WfRAV2jPaKJ0_CUcRKSN-HI-h7ko9HAJBBGF0pzN1HDJs-W3WYZqeRBNIZ25zJ2cGKqcvE3lQWQZs0SDIbgrK07825djkWJpyDpHHh1RBmlfqFA2T7la0_E4oct_zWh6UhFcJGRBUwX7frs4xdeabQZedvNbTiTuRLfi6IMo8mkug3K7tdNhJkfzJhGKiZVijAOqxXcSFgvafy5pjkPmLsXARBt3jiD9XRcYbpnu0oIyietJftb0tZm9DnDBfPGH6OS-p2TrxSkKWXlXX7No1nMxQI_HXVjiOEtPY45yWQMcpD3vCDtcFjsP9g3j4JzFK8vgUoYOOajdpHqb2fUT3SKZOqt-VMGkaeui1-mFJ1hm2neobsQxbEREoBG9YQxiOwrNBoCPe_Leyc548NWQmslu7e6Mhnp8WTLievPSRY1vVxvpVMedBBzgyeT1DP-QK0WWs3HArHC0K1KR5S_uC--YFXs8e_xaoa1hU1OXJW6zU_Cup8zYJS7AM5Ps0DcFbXhq-X_jgtkKs-pwMMpx-RMyBUMTo=w1360-h635-no?authuser=0",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881334/SC7_h9j1tr.png",
       title: "Portfolio website",
       caption: "click to see website and code",
       description: "Visit website",
