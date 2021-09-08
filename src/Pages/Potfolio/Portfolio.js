@@ -109,6 +109,7 @@ function Portfolio() {
             alt=""
             className="projectdialoge_image"
           />
+
           <a href={projectdialoge.netlify} target="_blank">
             {projectdialoge.description}
           </a>

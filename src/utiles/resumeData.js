@@ -152,6 +152,21 @@ const data = {
     {
       tag: "Reactjs",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1631125836/SC8_lj82ol.png",
+      title: " E-commerce website",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://online-commerce.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881334/SC4_s6cnvv.png",
       title: " Vaccination map website",
       caption: "click to see website and code",

@@ -40,7 +40,7 @@ function Header(props) {
             as={NavLink}
             to="/contact"
             className={
-              pathName == "/contact" ? "header_link_active" : "header_link"
+              pathName == "/contact" ? "header_link_active " : "header_link  "
             }
           >
             Contact me

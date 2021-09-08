@@ -67,3 +67,7 @@
 .projectdialoge .projectdialoge_icon > .MuiSvgIcon-root {
   font-size: 30px !important;
 }
+
+.position {
+  align-items: center;
+}
