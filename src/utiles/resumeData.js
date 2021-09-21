@@ -242,6 +242,21 @@ const data = {
     {
       tag: "FireBase",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1632223072/SC11_ft0wob.png",
+      title: "Quiz app reactjs and firebase (full)",
+      caption: "",
+      description: " Visit website",
+      netlify: "https://quiz-react-firebase.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "FireBase",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1631557877/SC10_ya3wjh.png",
       title: "Authentification Page ",
       caption: "",
