@@ -242,8 +242,8 @@ const data = {
     {
       tag: "FireBase",
       image:
-        "https://res.cloudinary.com/dc83alvmn/image/upload/v1632223072/SC11_ft0wob.png",
-      title: "Quiz app reactjs and firebase (full)",
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1632254111/SC12_nzkewb.png",
+      title: "Quiz Reactjs and firebase (full)",
       caption: "",
       description: " Visit website",
       netlify: "https://quiz-react-firebase.netlify.app/",
