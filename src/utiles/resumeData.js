@@ -25,7 +25,7 @@ const data = {
     },
   },
   about:
-    "I'm a polyvalent individual with adabtable skills coming from IT Management and E-Marketing fields. For now im focusing mostly on Front-end web development but i'm always willing to try my hands at anything new. It will be nice to hear from you if you are interested in Freelance projects or if you got any remarks . ",
+    "I'm a polyvalent individual with adaptable skills coming from IT Management and E-Marketing fields. For now im focusing mostly on Front-end web development but i'm always willing to try my hand at anything new. It will be nice to hear from you if you are interested in Freelance projects or if you got any remarks . ",
 
   experiences: [
     {
@@ -45,19 +45,19 @@ const data = {
     },
     {
       title:
-        "Back-end PHP developer - Freelancer with International Computer Partner (ICP)",
+        "Front-end developer - Freelancer with International Computer Partner (ICP)",
       date: "2016-2018",
+      description: "description3",
+    },
+    {
+      title: "Cyber office agent and computer maintenance - InfoPlus",
+      date: "2015",
       description: "description3",
     },
     {
       title:
         "Trainee affected to managment control department - AMI Insurance 2016",
       date: "2015",
-      description: "description3",
-    },
-    {
-      title: "Cyber office agent and computer maintenance - InfoPlus",
-      date: "2014-2015",
       description: "description3",
     },
     {
