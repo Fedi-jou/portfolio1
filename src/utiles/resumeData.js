@@ -152,6 +152,21 @@ const data = {
     {
       tag: "Reactjs",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1633645856/SC13_bixcdi.png",
+      title: "Modern Portfolio Example",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://react-smooth-portfolio.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1631125836/SC8_lj82ol.png",
       title: " E-commerce website",
       caption: "click to see website and code",
