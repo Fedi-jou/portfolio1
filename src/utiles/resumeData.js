@@ -182,6 +182,21 @@ const data = {
     {
       tag: "Reactjs",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1637677264/SC14_zd68h0.png",
+      title: "Private chat room",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://chat-room-prv.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1630881334/SC4_s6cnvv.png",
       title: " Vaccination map website",
       caption: "click to see website and code",
