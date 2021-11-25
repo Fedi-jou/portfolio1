@@ -149,6 +149,7 @@ const data = {
         },
       ],
     },
+
     {
       tag: "Reactjs",
       image:
@@ -157,6 +158,21 @@ const data = {
       caption: "click to see website and code",
       description: "Visit website",
       netlify: "https://react-smooth-portfolio.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1637848095/SC16_bib5da.png",
+      title: "memory-game",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://memory-flip-game.netlify.app/",
       links: [
         {
           link: "https://github.com/Fedi-jou?tab=repositories",
