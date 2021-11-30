@@ -195,6 +195,22 @@ const data = {
         },
       ],
     },
+
+    {
+      tag: "Reactjs",
+      image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1638230463/SC17_auiveu.png",
+      title: "Budget Calculator (hooks)",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://budget-calcul.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou?tab=repositories",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
     {
       tag: "Reactjs",
       image:
@@ -210,7 +226,7 @@ const data = {
         },
       ],
     },
-    //
+
     {
       tag: "Reactjs",
       image:
