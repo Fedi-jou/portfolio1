@@ -9,7 +9,7 @@ import TimelineItem from "@material-ui/lab/TimelineItem";
 import TimelineContent from "@material-ui/lab/TimelineContent";
 import Buttonn from "../Button/Button";
 import GetAppIcon from "@material-ui/icons/GetApp";
-import CV from "../../assets/images/CV.pdf";
+// import CV from "../../assets/images/CV.pdf";
 const CustomTimelineItem = ({ title, text, link }) => {
   return (
     <TimelineItem>
@@ -53,7 +53,7 @@ function Profile() {
           ))} */}
         </CustomTimeline>
         <div className="button_container">
-          <a href={CV} download="CV Fedi Joubali" target="_blank">
+          <a href="#" download="CV Fedi Joubali" target="_blank">
             <Buttonn text="Download CV" icon={<GetAppIcon />} />
           </a>
 
@@ -66,5 +66,5 @@ function Profile() {
     </div>
   );
 }
-
+// href={cv}
 export default Profile;

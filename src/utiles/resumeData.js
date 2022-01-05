@@ -39,7 +39,7 @@ const data = {
       description: "description2",
     },
     {
-      title: "Office Assistant - Thika real eastate agency",
+      title: "IT Technician - IT Department Aziza stores",
       date: "2018-2020",
       description: "description3",
     },
@@ -119,8 +119,9 @@ const data = {
       description: [
         "Javascript - ES6+",
         "HTML",
-        "CSS",
+        "CSS - SCSS",
         "BootStrap / Material-UI",
+        "ReactJs",
       ],
     },
     {
