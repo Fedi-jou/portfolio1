@@ -39,7 +39,7 @@ const data = {
       description: "description2",
     },
     {
-      title: "IT Technician - IT Department Aziza stores",
+      title: "Office assistant - real estate THIKA angency ",
       date: "2018-2020",
       description: "description3",
     },
