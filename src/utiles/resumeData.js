@@ -142,7 +142,7 @@ const data = {
       title: " Day1Studio website",
       caption: "click to see website and code",
       description: "Visit website",
-      netlify: "https://day1studio.netlify.app",
+      netlify: "https://day-1-studio.netlify.app",
       links: [
         {
           link: "https://github.com/Fedi-jou?tab=repositories",
