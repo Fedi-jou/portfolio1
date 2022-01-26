@@ -184,6 +184,21 @@ const data = {
     {
       tag: "Reactjs",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1643214135/SC18_ulhfdn.png",
+      title: "Starred github list repos",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://starred-repos-list.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou/starred_repos_list",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1631125836/SC8_lj82ol.png",
       title: " E-commerce website",
       caption: "click to see website and code",
