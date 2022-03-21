@@ -29,11 +29,6 @@ const data = {
 
   experiences: [
     {
-      title: "IT Manager - Carthage Best Goods",
-      date: "2021-2022",
-      description: "description1",
-    },
-    {
       title: "Front-end Freelancer - Day1studio",
       date: "2021",
       description: "description1",
@@ -44,13 +39,13 @@ const data = {
       description: "description2",
     },
     {
-      title: "IT Assistant - IT Department Aziza Stores ",
+      title:
+        "Front-end developer - Freelancer with International Computer Partner (ICP) ",
       date: "2018-2020",
       description: "description3",
     },
     {
-      title:
-        "Front-end developer - Freelancer with International Computer Partner (ICP)",
+      title: "IT Assistant - IT Department Aziza Stores ",
       date: "2016-2018",
       description: "description3",
     },
