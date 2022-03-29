@@ -145,7 +145,7 @@ const data = {
       netlify: "https://day-1-studio.netlify.app",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/Day1studio-ref",
           icon: <GitHubIcon />,
         },
       ],
@@ -161,7 +161,7 @@ const data = {
       netlify: "https://react-smooth-portfolio.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/modern-react-portfolio",
           icon: <GitHubIcon />,
         },
       ],
@@ -176,7 +176,7 @@ const data = {
       netlify: "https://memory-flip-game.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/memory-game",
           icon: <GitHubIcon />,
         },
       ],
@@ -206,7 +206,7 @@ const data = {
       netlify: "https://online-commerce.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/e-commerce",
           icon: <GitHubIcon />,
         },
       ],
@@ -222,7 +222,7 @@ const data = {
       netlify: "https://budget-calcul.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/budget-calculator",
           icon: <GitHubIcon />,
         },
       ],
@@ -237,7 +237,7 @@ const data = {
       netlify: "https://currency-finance.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/currency-tracker",
           icon: <GitHubIcon />,
         },
       ],
@@ -253,7 +253,7 @@ const data = {
       netlify: "https://chat-room-prv.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/chat-room",
           icon: <GitHubIcon />,
         },
       ],
@@ -268,7 +268,7 @@ const data = {
       netlify: "https://vaccination-map1.netlify.app",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/vaccination_map",
           icon: <GitHubIcon />,
         },
       ],
@@ -283,7 +283,7 @@ const data = {
       netlify: "https://coronagraph.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/Corona-Tracker",
           icon: <GitHubIcon />,
         },
       ],
@@ -298,7 +298,7 @@ const data = {
       netlify: "https://meteo-pwa1.netlify.app",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/weatherApp",
           icon: <GitHubIcon />,
         },
       ],
@@ -313,7 +313,7 @@ const data = {
       netlify: "https://dashboard-exemple.netlify.app",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/dashboard-exemple",
           icon: <GitHubIcon />,
         },
       ],
@@ -328,7 +328,7 @@ const data = {
       netlify: ".",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/portfolio1",
           icon: <GitHubIcon />,
         },
       ],
@@ -343,7 +343,7 @@ const data = {
       netlify: "https://quiz-react-firebase.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/quiz-app-reactjs-and-firebase",
           icon: <GitHubIcon />,
         },
       ],
@@ -358,7 +358,7 @@ const data = {
       netlify: "https://authentification-firebase.netlify.app/login",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/Authentification-firebase",
           icon: <GitHubIcon />,
         },
       ],
@@ -373,7 +373,7 @@ const data = {
       netlify: "https://gallery-fire-base.netlify.app/",
       links: [
         {
-          link: "https://github.com/Fedi-jou?tab=repositories",
+          link: "https://github.com/Fedi-jou/Gallery-with-firebase",
           icon: <GitHubIcon />,
         },
       ],
