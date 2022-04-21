@@ -150,7 +150,21 @@ const data = {
         },
       ],
     },
-
+    {
+      tag: "Reactjs",
+      image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1650507991/SC19_au8dp2.png",
+      title: "Modern admin dashboard template",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://backoffice-dashboard-template.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou/Admin_dashboard_reactjs",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
     {
       tag: "Reactjs",
       image:
