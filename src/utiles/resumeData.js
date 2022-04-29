@@ -183,6 +183,21 @@ const data = {
     {
       tag: "Reactjs",
       image:
+        "https://res.cloudinary.com/dc83alvmn/image/upload/v1651207602/SC20_idblpk.png",
+      title: "Modern UI website",
+      caption: "click to see website and code",
+      description: "Visit website",
+      netlify: "https://modern-ui-site.netlify.app/",
+      links: [
+        {
+          link: "https://github.com/Fedi-jou/modernUI-UX_website",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Reactjs",
+      image:
         "https://res.cloudinary.com/dc83alvmn/image/upload/v1637848095/SC16_bib5da.png",
       title: "memory-game",
       caption: "click to see website and code",
