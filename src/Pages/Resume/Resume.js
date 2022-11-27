@@ -29,14 +29,14 @@ function Resume() {
         </Grid>
       </Grid>
       <Grid container className="section pb_45">
-        <Grid item className="section_title mb_30">
+        {/* <Grid item className="section_title mb_30">
           <span></span>
-          <h6 className="section_title_text">Resume</h6>
-        </Grid>
+          <h6 className="section_title_text">Resume</h6> 
+        </Grid> */}
         <Grid item xs={12}>
           <Grid container className="resumetimeline">
             <Grid item sm={12} md={6}>
-              <CustomTimeline title="Working experiences" icon={<WorkIcon />}>
+              {/* <CustomTimeline title="Working experiences" icon={<WorkIcon />}>
                 {Data.experiences.map((experience) => (
                   <TimelineItem>
                     <TimelineSeparator className="separator_padding">
@@ -46,26 +46,26 @@ function Resume() {
                       />
                       <TimelineConnector />
                     </TimelineSeparator>
-                    <TimelineContent className="timeline_content">
+                     <TimelineContent className="timeline_content">
                       <Typography className="timeline_title">
                         {experience.title}
                       </Typography>
                       <Typography variant="caption" className="timeline_date">
                         {experience.date}
-                      </Typography>
-                      {/*   <Typography
+                      </Typography> 
+                      <Typography
                         variant="body2"
                         className="timeline_description"
                       >
                         {experience.description}
-                      </Typography> */}
-                    </TimelineContent>
+                      </Typography> 
+                    </TimelineContent> 
                   </TimelineItem>
                 ))}
-              </CustomTimeline>
+              </CustomTimeline> */}
             </Grid>
             <Grid item sm={12} md={6}>
-              <CustomTimeline title="Education" icon={<SchoolIcon />}>
+              {/* <CustomTimeline title="Education" icon={<SchoolIcon />}>
                 {Data.education.map((edu) => (
                   <TimelineItem>
                     <TimelineSeparator className="separator_padding">
@@ -91,7 +91,7 @@ function Resume() {
                     </TimelineContent>
                   </TimelineItem>
                 ))}
-              </CustomTimeline>
+              </CustomTimeline> */}
             </Grid>
           </Grid>
         </Grid>
