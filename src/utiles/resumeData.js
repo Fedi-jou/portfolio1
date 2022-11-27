@@ -25,7 +25,7 @@ const data = {
     },
   },
   about:
-    "I'm a polyvalent individual with adaptable skills coming from IT Management and E-Marketing fields. For now im focusing mostly on Front-end web development but i'm always willing to try my hand at anything new. It will be nice to hear from you if you are interested in Freelance projects or if you got any remarks . ",
+    "I'm a polyvalent individual with adaptable skills coming from IT Management and E-Marketing fields. For now im focusing mostly on Front-end web development but i'm always willing to try my hand at anything new. It will be nice to hear from you if you are interested in Freelance projects or if you got any remarks.",
 
   experiences: [
     {
